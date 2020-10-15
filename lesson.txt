@@ -1,0 +1,5 @@
+.What we are going to learn in this project
+    1.Getting more comfortable/fimiliar with flask framework
+    2.Sending emails using flask
+    3.Some basic of database(**optional)
+    4.How to work with configurable json file
